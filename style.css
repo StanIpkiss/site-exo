@@ -1,0 +1,51 @@
+body
+{
+    background-color: white;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+}
+
+.card
+{
+    color: white;
+    margin: auto;
+    margin-left: 380px;
+    margin-right: 380px;
+    display:flex;
+    border-radius: 2px;
+    
+    
+    
+}
+.colonne1
+{
+    background-color: #e38623;
+    display: flex;
+    flex-direction: column;
+    border-top-left-radius: 3%;
+    border-bottom-left-radius: 3%;
+}
+.colonne2
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #016971;
+    
+}
+.colonne3
+{
+    display: flex;
+    flex-direction: column;
+    background-color: #013f3e;
+    border-top-right-radius: 3%;
+    border-bottom-right-radius: 3%;
+}
+h1
+{
+    margin: 0;
+}
+.learnemore
+{
+
+}
