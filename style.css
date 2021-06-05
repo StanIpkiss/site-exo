@@ -48,16 +48,31 @@ h1
     padding-bottom:20px;
     font-family: 'Oswald', sans-serif;
 }
-.learnmore
+.parentlearnmore
 {
     margin: 0;
-    border: solid white;
     width:max-content;
     border-radius: 100px;
     padding: 10px;
     padding-left:25px;
     padding-right: 25px;
+    background-color: white;
+}
+.learnmore1
+{
+    color: #e38623;
+    margin: 5px;
 
+}
+.learnmore2
+{
+    margin: 5px;
+    color: #016971;
+}
+.learnmore3
+{
+    margin: 5px;
+    color:#013f3e;
 }
 .description
 {
